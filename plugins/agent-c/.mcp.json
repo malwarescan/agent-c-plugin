@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "agent-c": {
+      "type": "http",
+      "url": "https://api.croutons.ai/mcp"
+    }
+  }
+}

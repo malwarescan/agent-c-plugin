@@ -1,0 +1,13 @@
+{
+  "name": "agent-c",
+  "owner": { "name": "Agent C", "url": "https://agentc.croutons.ai" },
+  "metadata": { "description": "Agent C plugins for Claude Code." },
+  "plugins": [
+    {
+      "name": "agent-c",
+      "source": "./plugins/agent-c",
+      "description": "See how often AI assistants name your business, then make Agent C's fixes in your site's code for you to review.",
+      "version": "0.1.0"
+    }
+  ]
+}

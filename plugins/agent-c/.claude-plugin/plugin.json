@@ -1,0 +1,19 @@
+{
+  "name": "agent-c",
+  "version": "0.1.0",
+  "description": "Agent C's website fixes in Claude Code: see how often AI assistants name your business, then make the fixes in your site's code for you to review.",
+  "author": {
+    "name": "Agent C",
+    "url": "https://agentc.croutons.ai"
+  },
+  "homepage": "https://agentc.croutons.ai",
+  "keywords": [
+    "ai-visibility",
+    "seo",
+    "geo",
+    "website-fixes",
+    "mcp"
+  ],
+  "license": "MIT",
+  "repository": "https://github.com/malwarescan/agent-c-plugin"
+}
