@@ -15,5 +15,7 @@
     "mcp"
   ],
   "license": "MIT",
-  "repository": "https://github.com/malwarescan/agent-c-plugin"
+  "repository": "https://github.com/malwarescan/agent-c-plugin",
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://agentc.croutons.ai/privacy"
 }
