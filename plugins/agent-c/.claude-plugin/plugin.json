@@ -17,5 +17,8 @@
   "license": "MIT",
   "repository": "https://github.com/malwarescan/agent-c-plugin",
   "icon": ".claude-plugin/icon.png",
-  "privacyPolicyUrl": "https://agentc.croutons.ai/privacy"
+  "privacyPolicyUrl": "https://agentc.croutons.ai/privacy",
+  "supportUrl": "https://agentc.croutons.ai/support",
+  "documentationUrl": "https://github.com/malwarescan/agent-c-plugin/blob/main/plugins/agent-c/README.md",
+  "termsOfServiceUrl": "https://agentc.croutons.ai/terms"
 }
